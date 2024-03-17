@@ -18,7 +18,6 @@
     "publish:web": "firebase deploy --only hosting",
     "serve:app": "expo start --dev-client",
     "serve:web": "npx serve web-build --single",
-    "setup": "npm ci --silent",
     "start": "expo start --go",
     "test": "jest",
     "upgrade": "expo upgrade",
