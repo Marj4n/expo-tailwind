@@ -22,3 +22,5 @@ export default function LinkButton({ href, text }: Props) {
     </TouchableOpacity>
   )
 }
+
+
