@@ -57,7 +57,7 @@ git clone https://github.com/Marj4n/expo-tailwind.git
 b. Install dependencies:
 
 ```
-npm run setup
+npm install
 ```
 
 c. Start the dev server:
